@@ -1,0 +1,9 @@
+# Streamlit
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
